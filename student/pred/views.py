@@ -33,8 +33,8 @@ def predictionView(request):
         health = request.POST["health"]
 
 
-        data = np.array([ gender, age, location, famsize, traveltime, studytime, failures,
-                            paid, activities, nursery, higher, internet,freetime, health]).reshape(-1,14)
+        data = np.array([age, traveltime, studytime, failures, freetime, health, gender, location, famsize, 
+        paid, activities, nursery, higher, internet]).reshape(-1,14)
         # print(data)
         result = model.predict(data)[0]
         # print(result) #debug
