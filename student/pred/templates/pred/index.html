@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block title %}Home{% endblock title %}
+
+{% block content %}
+  <!-- Put page content Here -->
+  <div class="jumbotron">
+
+
+      <div class="container">
+      <a class="btn btn-lg btn-primary text-light" href="{% url 'prediction' %}" >Predict Student Performance</a>
+      </div>
+
+  </div> <!-- Row Div closed-->
+{% endblock content %}
