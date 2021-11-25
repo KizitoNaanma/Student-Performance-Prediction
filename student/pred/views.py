@@ -9,7 +9,7 @@ if not sys.warnoptions:
 
 from django.shortcuts import render
 #loading model
-with open("model/model2.pkl", "rb") as file:
+with open("model/rfcmodel.pkl", "rb") as file:
     model = joblib.load(file)
 
 def indexView(request):
@@ -17,26 +17,21 @@ def indexView(request):
 
 def predictionView(request):
     if request.method == "POST":
-        gender = request.POST["gender"]
-        age = request.POST["age"]
-        location = request.POST["location"]
-        famsize = request.POST["famsize"]
-        traveltime = request.POST["traveltime"]
         studytime = request.POST["studytime"]
-        failures = request.POST["failures"]
-        paid = request.POST["paid"]
-        activities = request.POST["activities"]
-        nursery = request.POST["nursery"]
-        higher = request.POST["higher"]
-        internet = request.POST["internet"]
-        freetime = request.POST["freetime"]
-        health = request.POST["health"]
+        CS201CA = request.POST["201CA"]
+        CS201Exam = request.POST["201Exam"]
+        CS202CA = request.POST["202CA"]
+        CS202Exam = request.POST["202Exam"]
+        CS305CA = request.POST["305CA"]
+        gender = request.POST["gender"]
+        resources = request.POST["resources"]
+        extraclass = request.POST.get("extraclass",0)
+        MD = request.POST["md"]
 
 
-        data = np.array([age, traveltime, studytime, failures, freetime, health, gender, location, famsize, 
-        paid, activities, nursery, higher, internet]).reshape(-1,14)
+        data = np.array([studytime, CS201CA, CS201Exam, CS202CA, CS202Exam, CS305CA, gender, resources, extraclass, MD]).reshape(-1,10)
         # print(data)
-        result = model.predict(data)[0]
+        result = model.predict(data)
         # print(result) #debug
         context = {"result" : result}
         return render(request, "pred/result.html", context)
