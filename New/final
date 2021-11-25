@@ -1,0 +1,106 @@
+	PK	NS	GENDER	STUDY TIME	RESOUCES	ABSENCES	EXTRA CLASS	MD	FACILITIES	201C.A	201 EXAM	202C.A	202 EXAM	305C.A	305 EXAM
+0	yes	no	M	5	yes	89	no	P	A	10	7	18	4	18	4
+1	no	no	M	1	no	11	yes	T	A	27	54	20	20	20	20
+2	no	yes	M	1	yes	100	yes	T	A	16	25	23	45	23	45
+3	yes	yes	M	4	yes	13	no	P	A	19	27	18	22	18	22
+4	yes	no	M	3	no	18	yes	T	A	19	24	21	29	21	29
+5	no	no	F	3	yes	28	no	P	A	21	38	19	21	19	21
+6	no	no	F	0	no	70	yes	PT	A	28	51	22	41	22	41
+7	yes	yes	M	0	no	38	yes	PT	A	21	33	23	27	23	27
+8	no	no	F	6	no	87	yes	T		18	24	21	32	21	32
+9	no	yes	M	2	yes	14	no	T		17	28	20	21	20	21
+10	no	yes	M	6	no	15	yes	PT	A	18	28	18	2	18	2
+11	no	no	M	0	no	50	yes	P	A	18	25	22	18	22	18
+12	no	yes	F	6	no	28	yes	PT	A	10	12	20	21	20	21
+13	no	yes	F	5	no	2	no	PT		19	26	19	26	19	26
+14	no	yes	M	2	yes	18	yes	PT		12	4	19	21	19	21
+15	yes	yes	M	4	yes	71	no	P		16	25	17	23	17	23
+16	yes	yes	F	4	no	66	no	T	A	18	24	19	22	19	22
+17	no	no	M	1	no	99	no	T	A	17	26	20	21	20	21
+18	yes	no	F	1	yes	71	yes	PT	A	16	24	19	22	19	22
+19	yes	yes	M	3	no	23	yes	T		21	38	19	10	19	10
+20	yes	no	F	3	no	36	no	T	A	16	25	18	22	18	22
+21	no	yes	M	4	yes	40	yes	T	A	16	24	19	21	19	21
+22	no	yes	M	6	yes	44	yes	T		21	34	18	6	18	6
+23	no	yes	M	2	no	8	yes	PT		19	26	18	11	18	11
+24	no	yes	M	0	yes	10	yes	T	A	22	32	16	3	16	3
+25	yes	no	F	6	no	35	no	PT	A	21	32	18	22	18	22
+26	yes	yes	M	4	no	59	no	T		22	30	18	0	18	0
+27	yes	no	F	1	yes	33	yes	T	A	16	25	20	20	20	20
+28	yes	yes	M	5	no	95	yes	P		22	39	21	30	21	30
+29	yes	no	F	6	yes	9	yes	PT	A	19	29	23	28	23	28
+30	yes	yes	M	1	no	88	yes	PT		28	59	26	30	26	30
+31	no	no	F	2	yes	16	yes	T	A	17	28	24	42	24	42
+32	yes	no	F	1	no	94	yes	PT		28	58	23	45	23	45
+33	yes	no	F	1	no	53	no	PT		20	34	22	46	22	46
+34	yes	no	F	2	no	90	no	T	A	25	42	24	44	24	44
+35	yes	no	F	4	no	46	yes	P	A	22	47	19	23	19	23
+36	yes	yes	M	4	yes	14	yes	T		27	50	27	54	27	54
+37	yes	no	M	1	no	57	no	P	A	28	51	19	21	19	21
+38	yes	yes	F	1	no	55	yes	P	A	28	57	19	21	19	21
+39	yes	yes	M	5	yes	29	no	T	A	16	24	21	19	21	19
+40	no	no	M	3	no	80	yes	T		16	25	24	67	24	67
+41	yes	yes	F	6	no	94	yes	P	A	20	33	25	53	25	53
+42	no	no	M	4	no	29	no	P	A	16	25	20	31	20	31
+43	no	no	F	2	no	67	yes	T	A	18	28	23	57	23	57
+44	no	no	M	5	no	81	yes	PT	A	24	42	27	58	27	58
+45	yes	yes	F	1	no	57	no	PT	A	22	31	19	21	19	21
+46	yes	no	F	5	yes	3	yes	T		20	32	19	8	19	8
+47	no	yes	M	6	yes	23	no	PT		16	24	23	17	23	17
+48	no	yes	M	0	yes	0	yes	T	A	27	50	25	20	25	20
+49	no	no	M	6	yes	38	yes	PT	A	16	24	23	27	23	27
+50	no	no	F	0	yes	99	no	PT	A	21	33	21	44	21	44
+51	yes	no	M	2	yes	82	yes	T	A	24	66	19	26	19	26
+52	yes	yes	M	1	yes	45	yes	T		22	33	25	32	25	32
+53	yes	yes	M	3	yes	51	yes	T		24	64	19	11	19	11
+54	no	yes	F	2	no	79	no	P		25	37	27	41	27	41
+55	yes	yes	M	3	yes	78	no	PT	A	18	24	20	22	20	22
+56	yes	no	F	4	no	10	no	P		21	41	23	45	23	45
+57	no	no	F	2	yes	65	no	PT		21	47	24	34	24	34
+58	yes	yes	F	3	yes	19	yes	P		20	34	26	54	26	54
+59	yes	no	F	1	yes	60	yes	PT	A	23	36	19	21	19	21
+60	yes	no	F	3	yes	85	no	P		18	24	19	9	19	9
+61	yes	yes	F	6	yes	36	yes	T		24	39	21	33	21	33
+62	no	yes	F	5	no	21	no	P	A	21	31	18	34	18	34
+63	no	no	F	4	no	75	yes	P	A	21	44	22	18	22	18
+64	no	yes	F	6	no	93	no	PT	A	24	36	20	9	20	9
+65	yes	no	F	4	yes	56	yes	P	A	21	45	22	26	22	26
+66	yes	yes	F	3	no	17	no	T	A	23	42	22	38	22	38
+67	no	no	F	0	yes	17	no	P	A	19	26	22	46	22	46
+68	no	no	M	2	no	29	no	P	A	19	27	20	20	20	20
+69	no	yes	F	0	yes	9	yes	PT	A	18	27	22	46	22	46
+70	no	no	M	2	no	63	no	PT		21	39	25	55	25	55
+71	yes	no	F	3	yes	46	no	T	A	22	32	22	46	22	46
+72	yes	yes	M	1	yes	43	no	PT		20	44	19	23	19	23
+73	yes	yes	M	6	no	82	yes	P	A	25	51	21	8	21	8
+74	yes	no	M	0	no	68	no	P	A	25	61	16	4	16	4
+75	no	yes	F	1	no	73	no	T	A	18	27	25	61	25	61
+76	no	yes	F	1	no	48	no	T	A	16	24	27	65	27	65
+77	yes	yes	F	1	no	78	no	PT		16	24	21	59	21	59
+78	yes	no	F	0	yes	4	yes	T	A	17	25	27	61	27	61
+79	no	no	M	4	no	91	yes	P		20	31	20	21	20	21
+80	no	yes	M	1	no	11	no	P		20	42	20	20	20	20
+81	no	yes	M	1	no	12	no	P	A	25	45	19	21	19	21
+82	yes	no	F	1	no	99	yes	P		19	29	20	44	20	44
+83	yes	no	F	0	yes	43	no	P		22	32	24	26	24	26
+84	yes	yes	M	4	no	33	no	T		16	26	24	36	24	36
+85	no	no	F	3	no	11	no	PT		21	34	19	21	19	21
+86	no	yes	M	4	no	47	yes	PT	A	17	28	22	28	22	28
+87	yes	yes	F	3	no	5	no	T	A	22	33	20	20	20	20
+88	yes	yes	F	0	no	20	no	T	A	26	53	20	20	20	20
+89	no	no	M	4	yes	24	yes	PT	A	20	31	19	34	19	34
+90	no	yes	F	1	no	89	no	T	A	25	43	21	23	21	23
+91	no	yes	M	2	no	73	yes	T		25	42	21	47	21	47
+92	no	yes	F	3	yes	45	yes	P		21	47	22	18	22	18
+93	yes	no	F	5	yes	81	yes	T		18	27	20	4	20	4
+94	no	no	M	3	no	37	no	T	A	22	46	23	41	23	41
+95	yes	yes	F	4	yes	40	no	P	A	19	27	22	46	22	46
+96	yes	no	F	4	yes	14	no	P	A	24	35	23	40	23	40
+97	yes	yes	F	0	yes	82	yes	PT		24	38	17	8	17	8
+98	yes	no	F	1	no	69	no	T		25	44	19	26	19	26
+99	no	yes	M	0	yes	6	no	T		28	54	18	22	18	22
+100	no	yes	M	3	yes	6	yes	T	A	24	63	23	32	23	32
+101	no	no	F	1	no	0	yes	PT		20	37	19	21	19	21
+102	no	yes	M	3	no	60	no	T	A	23	37	23	17	23	17
+103	yes	yes	F	2	yes	32	no	P	A	24	44	23	22	23	22
+104	yes	no	M	2	no	1	yes	T		28	52	23	45	23	45
